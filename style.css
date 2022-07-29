@@ -1,0 +1,78 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* common style */
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom:100px;
+}
+
+/* header style */
+.carousel-caption h1{
+    font-size: 60px;
+}
+
+/* our courses style */
+.course-title-des{
+    font-size:13px;
+}
+.course-info p{
+    font-size:13px;
+}
+
+/* e-learning styles */
+.elearning-card{
+    background: #F4FAFD;
+}
+.e-learning-info{
+    
+    height:700px;
+}
+.e-learning-info p{
+    font-size: 15px;
+}
+
+/* register now style */
+.ready-join{
+    font-size: 13px;
+}
+
+/* our student styles */
+.student-info p{
+    font-size: 13px;
+}
+
+/* students feedback */
+.fa-quote-right{
+    font-size: 40px;
+}
+.fa-star{
+    font-size: 13px;
+}
+.feedback-comment{
+    font-size: 13px;
+}
+.feedback-student-info p{
+    font-size: 13px;
+}
+.carousel-control-prev-icon{
+    background-color: steelblue;
+}
+.carousel-control-next-icon{
+    background-color: steelblue;
+}
+
+/* frequent question */
+.accordion-body p{
+    font-size: 13px;
+}
+
+/* footer */
+.footer p{
+    font-size: 13px;
+}
