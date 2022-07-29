@@ -7,14 +7,18 @@ body{
     padding:0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
 }
 .container{
     margin-bottom:100px;
 }
 
 /* header style */
-.carousel-caption h1{
-    font-size: 60px;
+.header-card img{
+    height:100vh;
+}
+.banner-title{
+    font-size:40px;
 }
 
 /* our courses style */
@@ -29,12 +33,9 @@ body{
 .elearning-card{
     background: #F4FAFD;
 }
-.e-learning-info{
-    
-    height:700px;
-}
-.e-learning-info p{
-    font-size: 15px;
+
+.e-learning-des{
+    font-size: 13px;
 }
 
 /* register now style */
